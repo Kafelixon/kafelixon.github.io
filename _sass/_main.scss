@@ -64,7 +64,13 @@ pre {
 }
 
 img {
-	max-width:100%;
+	max-width: 75%;
+}
+
+@media screen and (min-width: 45rem) {
+	img {
+		max-width: 25%;
+	}
 }
 
 hr {

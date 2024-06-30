@@ -1,28 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+![MyPicture](assets/my_picture.jpeg)
 
-### Features
+Hi, I'm Peter Szelenberger-Kafel  
+I live in Poland and work as an Software Engineer.  
+Welcome to my personal website
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+### My Socials
 
-### Screenshot
-
-![Screenshot](screenshot.png)
+- [LinkedIn](https://www.linkedin.com/in/piotrszkafel/)
+- [GitHub](https://github.com/Kafelixon)
